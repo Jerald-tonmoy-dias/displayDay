@@ -1,0 +1,28 @@
+body {
+    margin : 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.container {
+    width: 600px;
+    height: 400px;
+    background: tomato;
+    margin: 50px auto;
+}
+.container h1 {
+   padding-top: 5%;
+}
+.displayWeek {
+    margin-top: 20%;
+}
+#dayofWeek {
+    display: block;
+    font-size: 30px;
+    padding-bottom: 5%;
+}
+#quotaofWeek {
+    display: block;
+    font-size: 30px;
+}
